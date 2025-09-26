@@ -18,7 +18,7 @@ _web2/
 
 _web2/template  
 │── home.html       # 首頁  
-│── courses.html    # 課程  
+│── courses.html    # 學習課程  
 │── jobs.html       # 工作經驗  
 
 _web2/static  
