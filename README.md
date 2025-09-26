@@ -16,12 +16,12 @@ _web2/
 |── app.py          # Flask 主程式  
 │── README.md       # 說明文件 (給 GitHub)  
 
-_web2/template
+_web2/template  
 │── home.html       # 首頁  
 │── courses.html    # 課程  
 │── jobs.html       # 工作經驗  
 
-_web2/static
+_web2/static  
 |—— image.png       # logo 照片  
 │── style.css       # 共用樣式  
  
