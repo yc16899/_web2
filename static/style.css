@@ -1,0 +1,9 @@
+/* 導覽列連結 */
+.nav-link {
+    font-size: 1.5rem;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #0d6efd !important; /* Bootstrap 藍色 */
+}
